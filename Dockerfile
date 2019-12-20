@@ -1,2 +1,2 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch-oss:6.8.2
+FROM gcr.io/google-containers/fluentd-elasticsearch:v2.3.2
 MAINTAINER ljzsdut <ljzsdut@163.com>
