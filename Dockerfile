@@ -1,2 +1,2 @@
-FROM dduportal/bats:0.4.0
+FROM dwdraju/alpine-curl-jq
 MAINTAINER ljzsdut <ljzsdut@163.com>
