@@ -1,2 +1,2 @@
-FROM ibizlab/ehr-app-ehrpcm2:v1
+FROM -h
 MAINTAINER ljzsdut <ljzsdut@163.com>
