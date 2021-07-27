@@ -1,2 +1,2 @@
-FROM quay.io/cephcsi/cephcsi:v3.2.2
+FROM k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.0.1
 MAINTAINER ljzsdut <ljzsdut@163.com>
